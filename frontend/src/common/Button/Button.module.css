@@ -1,0 +1,23 @@
+.button{
+    max-width: 100%;
+    background: #0066CC;
+    box-shadow: 0.31rem 0.31rem 0.31rem rgba(0, 0, 0, 0.25);
+    border-radius: 1.56rem;
+    border: 0rem;
+    padding: 0.5rem 4rem;
+    cursor: pointer;
+}
+
+.button p{
+    font-size: 1.5rem;
+    color: #FFFFFF;
+}
+
+@media only screen and (max-device-width: 1200px) {
+    .button{
+        padding: 0.5rem 1rem;
+    }
+    .button p{
+        white-space: normal;
+    }
+}
