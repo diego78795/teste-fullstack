@@ -1,0 +1,18 @@
+.page{
+    text-align: center;
+}
+.page nav{
+    text-align: end;
+    margin: 1rem 1rem 0rem 0rem;
+    cursor: pointer;
+}
+
+.page h1 {
+    font-size: 3rem;
+    margin: 2rem 0rem;
+}
+
+.page p {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
